@@ -18,6 +18,9 @@
                 case string s when s.EndsWith("!"):
                     Console.WriteLine("Du avslutade med utropsteckning");
                     break;
+                case string s when s.StartsWith("Hejsan") && s.EndsWith("!"):
+                    Console.WriteLine("Hej! Och du avslutade med utropstecken: " + s);
+                    break;
                 default:
                     Console.WriteLine("Du skrev " + textCheck);
                     break;

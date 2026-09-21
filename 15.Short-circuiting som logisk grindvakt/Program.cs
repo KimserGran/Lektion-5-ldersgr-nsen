@@ -11,6 +11,7 @@
             if (text1.Length > 5 && text1 != null)
                 Console.WriteLine("Not Null");
             else throw new NullReferenceException("a");
+            //a
 
         }
     }
