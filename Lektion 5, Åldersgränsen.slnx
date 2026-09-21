@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="10. Biluthyrningen/10. Biluthyrningen.csproj" />
+  <Project Path="11. Textanalysatorn/11. Textanalysatorn.csproj" />
+  <Project Path="12.Trippelvalidering av användardata/12.Trippelvalidering av användardata.csproj" />
+  <Project Path="13.Behörighetsmatrisen/13.Behörighetsmatrisen.csproj" />
+  <Project Path="14.Mönstermatchning med Switch och Property-matching/14.Mönstermatchning med Switch och Property-matching.csproj" />
+  <Project Path="15.Short-circuiting som logisk grindvakt/15.Short-circuiting som logisk grindvakt.csproj" />
+  <Project Path="2. Dörrvakten/2. Dörrvakten.csproj" />
+  <Project Path="3. Temperaturvarnaren/3. Temperaturvarnaren.csproj" />
+  <Project Path="4. Veckodagskontrollen/4. Veckodagskontrollen.csproj" />
+  <Project Path="5. Medlemsstatus/5. Medlemsstatus.csproj" />
+  <Project Path="6. Inloggningskontroll/6. Inloggningskontroll.csproj" />
+  <Project Path="7. Rabattväljaren/7. Rabattväljaren.csproj" />
+  <Project Path="8. Åldersgränser på bio/8. Åldersgränser på bio.csproj" />
+  <Project Path="9. Support-ärenden/9. Support-ärenden.csproj" />
+  <Project Path="Lektion 5, Åldersgränsen/Lektion 5, Åldersgränsen.csproj" />
+</Solution>
